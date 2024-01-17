@@ -22,25 +22,25 @@ This Java project has given rise to Speak, an instant messaging application that
 
 ## screenshots
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/speak.png)
+![logo](https://github.com/younes-jabbour/chat-app/blob/main/images/speak.png)
 
 ### architecture of application
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/architecture.png)
+![architecture](https://github.com/younes-jabbour/chat-app/blob/main/images/architecture.png)
 
 ## login page and register page
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/register.png)
-![logo](https://github.com/younes-jabbour/chat-app/main/images/login.png)
+![register](https://github.com/younes-jabbour/chat-app/blob/main/images/register.png)
+![login](https://github.com/younes-jabbour/chat-app/blob/main/images/login.png)
 
 ## chat page
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/chat.png)
+![chat](https://github.com/younes-jabbour/chat-app/blob/main/images/chat.png)
 
 ## profile page
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/profile.png)
+![profile](https://github.com/younes-jabbour/chat-app/blob/main/images/profile.png)
 
 ## contact page
 
-![logo](https://github.com/younes-jabbour/chat-app/main/images/contacts.png)
+![contact](https://github.com/younes-jabbour/chat-app/blob/main/images/contacts.png)
