@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://younes_jabbour@bitbucket.org/speed-chat/server.git
+[submodule "client"]
+	path = client
+	url = https://younes_jabbour@bitbucket.org/speed-chat/client.git
